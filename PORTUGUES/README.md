@@ -9,7 +9,7 @@ Dicas de ortografia
 - PARALIZAR :x:       PARALISAR :heavy_check_mark:
 
 
-Sessão x Seção x Secção x Cessão
+## Sessão x Seção x Secção x Cessão
 
 - Sessão: Espetáculo, cerimônia, apresentação
 - Seção: O mesmo que Secção. "Visitei a seção de presentes".
