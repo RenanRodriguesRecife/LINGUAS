@@ -15,3 +15,7 @@ Dicas de ortografia
 - Seção: O mesmo que Secção. "Visitei a seção de presentes".
 - Secção: Departamento, divisão, setor.
 - Cessão: verbo ceder, doar, dar.
+
+## Mau x Mal / Bom x Bem
+
+<img src=".assets/mau-mal-bem-bom.jpg">
