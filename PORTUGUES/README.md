@@ -23,3 +23,9 @@ Dicas de ortografia
 ## A gente x Agente
 
 <img src=".assets/Agente.jpg">
+
+# Pontuação 
+
+## Depois de dois-pontos [ : ] se privilegia o uso da letra minúscula.
+
+Dois-pontos é um sinal de pontuação interna. Não termina a frase, apenas introduz uma nova informação. É usado para assinalar uma pequena pausa numa frase que não está concluída.
