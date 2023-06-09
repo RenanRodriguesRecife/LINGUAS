@@ -7,7 +7,7 @@ Dicas de ortografia
 - A VISTA :x:         À VISTA :heavy_check_mark:
 - CIDADÕES :x:        CIDADÃOS :heavy_check_mark:
 - PARALIZAR :x:       PARALISAR :heavy_check_mark:
-
+- AMINÉSIA :x:       AMNÉSIA :heavy_check_mark:
 
 ## Sessão x Seção x Secção x Cessão
 
