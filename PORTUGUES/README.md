@@ -21,6 +21,12 @@ Sobre - Em cima
 
 Sob - abaixo de, Protegido por
 
+## Incipiente x Insipiente
+
+Incipiente - Iniciante, que está no começo
+
+Insipiente - Ignorante, insensato, que não sabe.
+
 ## Vim / Vir
 
 #### Errado
