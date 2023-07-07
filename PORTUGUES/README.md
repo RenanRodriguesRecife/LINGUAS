@@ -9,10 +9,10 @@
 
 ## Sessão x Seção x Secção x Cessão
 
-- Sessão: Espetáculo, cerimônia, apresentação
-- Seção: O mesmo que Secção. "Visitei a seção de presentes".
+- Sessão: Espetáculo, cerimônia, apresentação (Sessão de cinema)
+- Seção: O mesmo que Secção. "Visitei a seção de presentes". (seção de laticínios)
 - Secção: Departamento, divisão, setor.
-- Cessão: verbo ceder, doar, dar.
+- Cessão: verbo ceder, doar, dar. (cessão de direitos)
 
 ## Acerca de x A cerca de x Há cerca de x A cerca
 
@@ -30,11 +30,20 @@ Sobre - Em cima
 
 Sob - abaixo de, Protegido por
 
+
+## Suar x Soar
+
+Suar - Transpirar
+
+Soar - Produzir som
+
 ## Incipiente x Insipiente
 
 Incipiente - Iniciante, que está no começo
 
 Insipiente - Ignorante, insensato, que não sabe.
+
+
 
 ## Vim / Vir
 
