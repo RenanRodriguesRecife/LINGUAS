@@ -163,3 +163,14 @@ Dois-pontos é um sinal de pontuação interna. Não termina a frase, apenas int
 Ana passou em engenhaira, e Mariana está cursando matemática
 
 Mudou o sujeito? Então usa-se virgula
+
+
+# Denotação x Conotação
+
+Denotação - sentido real
+
+Ex: O passáro voava pelo céu da cidade; Relampejou muito durante a noite
+
+Conotação - sentido figurado
+
+Ex: O carro voava pelo céu da cidade; Seus olhos relampejaram de ódio
