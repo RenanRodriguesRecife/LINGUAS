@@ -22,6 +22,11 @@
 
 <img src=".assets/Agente.jpg">
 
+## Crase
+
+<img src=".assets/crase.jpg">
+
+
 # Pontuação 
 
 ## Depois de dois-pontos [ : ] se privilegia o uso da letra minúscula.
