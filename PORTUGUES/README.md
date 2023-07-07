@@ -54,9 +54,18 @@ Ex: "Eu vim para o curso hoje a pé."
 
 ## Senão x se não
 
-Senão - caso contrário -> Ela teve que correr, senão perderia a prova
+Senão - caso contrário, "a não ser" -> Ela teve que correr, senão perderia a prova
 
-Se não - condição - Se não nevar, podemos visitá-lo.
+Se não - condição - Se não nevar, podemos visitá-lo.  (Se não é usado nas orações subordinadas condicionais. Ex: "Se não chover, poderemos sair.")
+
+
+
+## Enfim x Em fim
+
+Enfim: Afinal, finalmente (Ex: Enfim estamos juntos!)
+
+Em fim: No fim (Ex: Ela está em fim de carreira.)
+
 
 ## Ascender x Acender
 
