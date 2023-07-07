@@ -14,6 +14,15 @@
 - Secção: Departamento, divisão, setor.
 - Cessão: verbo ceder, doar, dar.
 
+## Acerca de x A cerca de x Há cerca de x A cerca
+
+- Acerca de: sobre
+
+- A cerca de: perto de
+
+- Há cerca de: tempo decorrido
+
+- A cerca: o cercado
 
 ## Sob x Sobre
 
