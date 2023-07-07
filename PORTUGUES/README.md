@@ -1,6 +1,4 @@
-# Ortografia
-
-Dicas de ortografia
+# Ortografia - Dicas de ortografia
 
 - REJUVELHECER :x:    REJUVENESCER :heavy_check_mark:
 - FARAM :x:           FARÃO :heavy_check_mark:
