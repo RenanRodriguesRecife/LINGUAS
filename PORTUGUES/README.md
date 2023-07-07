@@ -109,6 +109,11 @@ Acender -> Pôr fogo
 
 - à beira de.
 
+## São x Santo
+
+usarmos são antes dos nomes que iniciam por uma consoante e santo antes de nomes começados por vogal ou por H
+
+Hoje é dia de Santo André
 
 # Pontuação 
 
