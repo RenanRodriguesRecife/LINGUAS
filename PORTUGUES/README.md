@@ -14,6 +14,13 @@
 - Secção: Departamento, divisão, setor.
 - Cessão: verbo ceder, doar, dar.
 
+
+## Sob x Sobre
+
+Sobre - Em cima
+
+Sob - abaixo de, Protegido por
+
 ## Vim / Vir
 
 #### Errado
