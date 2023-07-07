@@ -14,6 +14,12 @@
 - Secção: Departamento, divisão, setor.
 - Cessão: verbo ceder, doar, dar.
 
+## Ascender x Acender
+
+Ascender -> Subir, elevar-se
+
+Acender -> Pôr fogo
+
 ## Mau x Mal / Bom x Bem
 
 <img src=".assets/mau-mal-bem-bom.jpg">
