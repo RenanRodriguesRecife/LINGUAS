@@ -14,6 +14,12 @@
 - Secção: Departamento, divisão, setor.
 - Cessão: verbo ceder, doar, dar.
 
+## Senão x se não
+
+Senão - caso contrário -> Ela teve que correr, senão perderia a prova
+
+Se não - condição - Se não nevar, podemos visitá-lo.
+
 ## Ascender x Acender
 
 Ascender -> Subir, elevar-se
