@@ -62,3 +62,9 @@ Acender -> Pôr fogo
 ## Depois de dois-pontos [ : ] se privilegia o uso da letra minúscula.
 
 Dois-pontos é um sinal de pontuação interna. Não termina a frase, apenas introduz uma nova informação. É usado para assinalar uma pequena pausa numa frase que não está concluída.
+
+## Vírgula antes do 'E'?
+
+Ana passou em engenhaira, e Mariana está cursando matemática
+
+Mudou o sujeito? Então usa-se virgula
