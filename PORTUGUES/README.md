@@ -69,6 +69,28 @@ Acender -> Pôr fogo
 
 <img src=".assets/crase.jpg">
 
+#### Exepressões que admitem crase
+
+- às vezes;
+
+- à medida que;
+
+- à vista (a prazo);
+
+- à caneta (a lápis);
+
+- à procura de;
+
+- à espera de;
+
+- à esquerda de;
+
+- à altura de;
+
+- à frente de;
+
+- à beira de.
+
 
 # Pontuação 
 
