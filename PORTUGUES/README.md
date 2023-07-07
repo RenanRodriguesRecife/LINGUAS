@@ -67,7 +67,13 @@ Senão - caso contrário, "a não ser" -> Ela teve que correr, senão perderia a
 
 Se não - condição - Se não nevar, podemos visitá-lo.  (Se não é usado nas orações subordinadas condicionais. Ex: "Se não chover, poderemos sair.")
 
+## Haja x Aja
 
+- Haja (verbo haver)
+Ex: Haja paciência!
+
+- Aja (verbo agir)
+Ex: Aja com paciência
 
 ## Enfim x Em fim
 
@@ -123,6 +129,17 @@ Acender -> Pôr fogo
 usarmos são antes dos nomes que iniciam por uma consoante e santo antes de nomes começados por vogal ou por H
 
 Hoje é dia de Santo André
+
+# Por que x porque x por quê x porquê
+
+- Por que = pergunta
+
+- Porque = resposta
+
+- Por quê = fim de frase, motivo
+
+- Porquê = substantivo
+
 
 # Pontuação 
 
