@@ -17,8 +17,10 @@
 ## Ascender x Acender
 
 Ascender -> Subir, elevar-se
+(Ana ascendeu ao cargo de diretora da empresa)
 
 Acender -> Pôr fogo
+(Ana acendeu a fogueira)
 
 ## Mau x Mal / Bom x Bem
 
