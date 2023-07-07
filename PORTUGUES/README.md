@@ -14,6 +14,22 @@
 - Secção: Departamento, divisão, setor.
 - Cessão: verbo ceder, doar, dar.
 
+## Vim / Vir
+
+#### Errado
+
+"João vai vim de ônibus para o trabalho?"
+
+#### Certo
+
+"Tem como você vir mais cedo?"
+
+#### Por quê?
+
+O verbo vir se refere ao ato de chegar, comparecer, retornar, resultar, etc. O uso de vim só deve ser aplicado na conjugação da primeira pessoa do singular do Pretérito Perfeito.
+
+Ex: "Eu vim para o curso hoje a pé."
+
 ## Senão x se não
 
 Senão - caso contrário -> Ela teve que correr, senão perderia a prova
