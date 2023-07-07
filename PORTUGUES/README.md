@@ -140,6 +140,17 @@ Hoje é dia de Santo André
 
 - Porquê = substantivo
 
+# Pressão x preção
+
+<img src=".assets/pre.jpg">
+
+# Em cima x Embaixo
+
+<img src=".assets/cimabaixo.jpg">
+
+# Acento
+
+<img src=".assets/acento1.JPG">
 
 # Pontuação 
 
