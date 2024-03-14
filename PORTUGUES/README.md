@@ -75,6 +75,21 @@ Senão - caso contrário, "a não ser" -> Ela teve que correr, senão perderia a
 
 Se não - condição - Se não nevar, podemos visitá-lo.  (Se não é usado nas orações subordinadas condicionais. Ex: "Se não chover, poderemos sair.")
 
+Errado
+
+"Nada fazia se não reclamar."
+
+Certo
+
+"Nada fazia senão reclamar."
+
+Por quê?
+
+Senão significa "a não ser", "caso contrário".
+Se não é usado nas orações subordinadas condicionais.
+
+Ex: "Se não chover, podemos sair."
+
 ## Haja x Aja
 
 - Haja (verbo haver)
