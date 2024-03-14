@@ -7,6 +7,14 @@
 - PARALIZAR :x:       PARALISAR :heavy_check_mark:
 - AMINÉSIA :x:       AMNÉSIA :heavy_check_mark:
 
+- MENDINGO :x:       MENDIGO :heavy_check_mark:
+- REINTERAR :x:      REITERAR :heavy_check_mark:
+- GRATUÍTO :x:       GRATUITO :heavy_check_mark:
+- FREIAR :x:         FREAR :heavy_check_mark:
+- SOMBRANCELHA :x:       SOBRANCELHA :heavy_check_mark:
+- BANDEIJA :x:       BANDEJA :heavy_check_mark:
+- ADEVOGADO :x:       ADVOGADO :heavy_check_mark:
+
 ## Sessão x Seção x Secção x Cessão
 
 - Sessão: Espetáculo, cerimônia, apresentação (Sessão de cinema)
