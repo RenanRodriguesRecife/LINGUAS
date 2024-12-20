@@ -1,3 +1,8 @@
+# Em condicional x incondicional
+
+- Amor em condicional: depende de certas condições ou comportamentos específicos
+- Amor incondicional: não depende de nenhuma condição ou expectativa para existir
+
 # Dicas
 
 - Bater à porta: Significa bater para que alguém abra a porta
