@@ -1,3 +1,14 @@
+# Não erre mais:
+
+- Pernicioso: prejudicial
+- Aurora: nascer do sol
+- Contumaz: persistente
+- Dilapidar: desperdiçar;
+- Eclético: que seleciona o melhor em diferentes estilos ou ideias
+- Fugaz: que passa rapidamente
+- Idílico: extremamente feliz
+
+
 # Ortografia - Dicas de ortografia
 
 - REJUVELHECER :x:    REJUVENESCER :heavy_check_mark:
