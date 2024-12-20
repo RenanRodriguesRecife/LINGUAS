@@ -1,3 +1,10 @@
+# À mesa x Na mesa x A mesa
+
+- À mesa: ação de estar ou sentar-se para comer
+- Na mesa: para indicar algo localizado ou colocado sobre a mesa
+- A mesa: Refere-se ao objeto "mesa" 
+
+
 # Em condicional x incondicional
 
 - Amor em condicional: depende de certas condições ou comportamentos específicos
