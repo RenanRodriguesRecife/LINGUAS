@@ -1,3 +1,9 @@
+# Dicas
+
+- Bater à porta: Significa bater para que alguém abra a porta
+- Bater a porta: Significa fechar a porta com força
+- Bater na porta: Significa dar pancadas na porta, para arrombar a porta.
+
 # Não erre mais:
 
 - Pernicioso: prejudicial
