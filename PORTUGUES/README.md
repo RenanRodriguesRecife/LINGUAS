@@ -154,6 +154,8 @@ Acender -> Pôr fogo
 
 <img src=".assets/crase.jpg">
 
+<img src=".assets/crase1.jpg">
+
 #### Exepressões que admitem crase
 
 - às vezes;
