@@ -156,6 +156,10 @@ Acender -> Pôr fogo
 
 <img src=".assets/crase1.jpg">
 
+- Cheira a gasolina (aspirar o combustível)
+
+- Cheira à gasolina (feder tal qual o combustível)
+
 #### Exepressões que admitem crase
 
 - às vezes;
