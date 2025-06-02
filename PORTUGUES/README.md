@@ -222,6 +222,13 @@ Ana passou em engenhaira, e Mariana está cursando matemática
 
 Mudou o sujeito? Então usa-se virgula
 
+## Que
+
+  (Errado)                 x     (Certo)
+- A blusa **que** fui      x     A blusa **com que** fui
+- A hora **que** cheguei   x     A hora **a que** cheguei
+- A pizza **que** gosto    x     A pizza **de que** gosto
+- O vídeo **que** assistir x     O vídeo **a que** assisti
 
 # Denotação x Conotação
 
