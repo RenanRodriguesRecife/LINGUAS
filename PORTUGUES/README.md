@@ -210,6 +210,10 @@ Hoje é dia de Santo André
 
 <img src=".assets/acento1.JPG">
 
+# ir no x ir ao
+
+<img src=".assets/banheiro.jpg">
+
 # Pontuação 
 
 ## Depois de dois-pontos [ : ] se privilegia o uso da letra minúscula.
