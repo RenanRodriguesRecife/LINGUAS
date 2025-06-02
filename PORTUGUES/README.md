@@ -224,11 +224,11 @@ Mudou o sujeito? Então usa-se virgula
 
 ## Que
 
-  (Errado)                 x     (Certo)
-- A blusa **que** fui      x     A blusa **com que** fui
-- A hora **que** cheguei   x     A hora **a que** cheguei
-- A pizza **que** gosto    x     A pizza **de que** gosto
-- O vídeo **que** assistir x     O vídeo **a que** assisti
+  (Errado)                     x     (Certo)
+- A blusa **que** fui :x:      x     A blusa **com que** fui :heavy_check_mark:
+- A hora **que** cheguei :x:   x     A hora **a que** cheguei :heavy_check_mark:
+- A pizza **que** gosto:x:     x     A pizza **de que** gosto :heavy_check_mark:
+- O vídeo **que** assistir :x: x     O vídeo **a que** assisti :heavy_check_mark:
 
 # Denotação x Conotação
 
